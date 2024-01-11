@@ -8,7 +8,7 @@ Repositório designado para todos os Projetos Tableau entregues.
 > Dataset referente a estabelecimentos de Restaurantes e Supermercados, em um período específico, para criação de um report.  
 
   
-* Report Vendas  
+* Dashboard de Vendas  
 > Dashboard solicitaado pela área Comercial, para report das vendas mensais e evolução anual da desenvoltura por porte de empresas.   
 > -- Dados reais removidos e substituídos por números hipotéticos, mantendo apenas layout da entrega.   
 
