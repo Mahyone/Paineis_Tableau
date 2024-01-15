@@ -3,6 +3,16 @@
 ---------------------------------   
 Repositório designado para todos os Projetos Tableau entregues.
 
+* Dashboard Office Suplies       
+> Dataset público do Tableau com as Vendas de produtos de escritório em determinado período.
+>> Destaques de Funcionalidades aplicadas:
+     - FIltro aplicado diretamente nas imagens dos produtos;
+     - Filtro dos vendedores e das regiões aplicadas diretamente sob clique nos gráficos;
+     - No gráfico de Evolução de Vendas há a opção de realizar o Drill Down do período clicando no '+' ao passar o mouse em cima do ano, no caso, até o nível de semana (menor granularidade do dataset);
+
+<br>
+<br>  
+
 
 * Case Restaurantes     
 > Dataset referente a estabelecimentos de Restaurantes e Supermercados, em um período específico, para criação de um report.
