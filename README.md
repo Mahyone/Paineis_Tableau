@@ -13,6 +13,23 @@ Repositório designado para todos os Projetos Tableau entregues.
 <br>
 <br>  
 
+* Dashboard Global Super Store         
+> Dataset público do Tableau com as informações de Vendas de uma empresa Global.   
+>> Destaques de Funcionalidades aplicadas:      
+     - Parametro aplicado no Mapa para alterar o 'HeatMap': Vendas, Descontos, Custo de Envio, Lucro e Margem de Lucro.       
+
+<br>
+<br>  
+
+* Dashboard dos Crimes no Rio de Janeiro    
+> Dataset público, extraído diretamente da Secretaria de Segurança Pública do RJ, com briefing definido de perguntas a serem respondidas para conclusão de módulo da Formação Big Data e Analytics, da FGV.   
+>> Destaques de Funcionalidades aplicadas:       
+     - Filtros splicados diretamente nas exibições;  
+     - Mouse Over com deep dive de informações em cada gráfico;  
+
+<br>
+<br>
+
 
 * Case Restaurantes     
 > Dataset referente a estabelecimentos de Restaurantes e Supermercados, em um período específico, para criação de um report.
