@@ -47,8 +47,15 @@ Repositório designado para todos os Projetos Tableau entregues.
 -- Dados reais removidos, mantendo apenas layout da entrega.    
 > Dashboard solicitado pela Diretoria Financeira para report dos resultados operacionais e financeiros ao Grupo.  
 
-<br>
-<br>
+<br>  
+<br>  
+
+* Dashboard de Empresas   
+-- Dados reais removidos e substituídos por dados fictícios.    
+> Dashboard solicitado pela área de planejamento estratégico para analisar as operações do Segmento de PJ a nível Brasil (enriquecidos por biros), além das métricas de Campanha Marketing para aumentar a carteira.  
+
+<br>  
+<br>  
 
 
 
