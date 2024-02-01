@@ -76,7 +76,8 @@ Repositório designado para todos os Projetos Tableau entregues.
 
 * Dashboard Análise de Jornadas do Funil:      
 > Dados reais removidos e substituídos por dados fictícios - por isso a baixa resolução do Painel.   
->> Destaques de Funcionalidades aplicadas:   
+>> Destaques de Funcionalidades aplicadas:
+     - Farol para os indicadores do Painel Executivo;  
      - Os gráficos de evolução de cada etapa do Funil é parametrizado pelo usuário (semanal ou mensal, e escolha do tempo que será exibido); 
      - A base analítica, para exportar as informações para Excel, é configurado pelo usuário - layout personalizado;
 
